@@ -1,0 +1,7 @@
+D:\DevResources\Visual Studio 2010\Projects\LastFM\LastFMcurrentPlayingSongCS\bin\Debug\LastFMcurrentPlayingSongCS.exe.config
+D:\DevResources\Visual Studio 2010\Projects\LastFM\LastFMcurrentPlayingSongCS\bin\Debug\LastFMcurrentPlayingSongCS.exe
+D:\DevResources\Visual Studio 2010\Projects\LastFM\LastFMcurrentPlayingSongCS\bin\Debug\LastFMcurrentPlayingSongCS.pdb
+D:\DevResources\Visual Studio 2010\Projects\LastFM\LastFMcurrentPlayingSongCS\bin\Debug\lastfm-sharp.dll
+D:\DevResources\Visual Studio 2010\Projects\LastFM\LastFMcurrentPlayingSongCS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevResources\Visual Studio 2010\Projects\LastFM\LastFMcurrentPlayingSongCS\obj\x86\Debug\LastFMcurrentPlayingSongCS.exe
+D:\DevResources\Visual Studio 2010\Projects\LastFM\LastFMcurrentPlayingSongCS\obj\x86\Debug\LastFMcurrentPlayingSongCS.pdb
